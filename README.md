@@ -7,3 +7,5 @@ Enter the query into the search box and click on search button.
 
 tf-idf algorithm is implemented to do this task.
 
+
+Brown Data set is used in this project.
